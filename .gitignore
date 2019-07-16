@@ -44,3 +44,6 @@ Temporary Items
 
 # Node files
 node_modules
+
+# Package
+package-lock.json

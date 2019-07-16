@@ -9,7 +9,7 @@
   "repository": "git://github.com/catdad/css-raw-loader.git",
   "license": "MIT",
   "dependencies": {
-    "clean-css": "^3.2.10",
+    "clean-css": "^4.2.1",
     "loader-utils": "~0.2.7",
     "source-list-map": "~0.1.5"
   }
